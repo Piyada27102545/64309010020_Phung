@@ -3,4 +3,41 @@
      <FoodID>001</FoodID>
      <FoodName>ผัดกะเพราหมู</FoodName>
      <Price>35 บาท</Priice>
+    <ThaiFood>
+     <FoodID>002</FoodID>
+     <FoodName>ผัดคะน้าหมูกรอบ</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>003</FoodID>
+     <FoodName>ผัดไทกุ้งสด</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>004</FoodID>
+     <FoodName>ราดหน้า</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>005</FoodID>
+     <FoodName>ข้าวไข่เจี้ยว</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>006</FoodID>
+     <FoodName>ข้าวหมูทอด</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>007</FoodID>
+     <FoodName>ข้าวมันไก่</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>008</FoodID>
+     <FoodName>ข้าวขาหมู</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>009</FoodID>
+     <FoodName>ข้าวไก่ทอด</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
+     <FoodID>0010</FoodID>
+     <FoodName>ข้าวต้ม</FoodName>
+     <Price>35 บาท</Priice>
+     <ThaiFood>
 <Food>
