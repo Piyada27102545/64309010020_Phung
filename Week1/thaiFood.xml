@@ -45,8 +45,8 @@
         <Price>35 บาท</Priice>
      </ThaiFood>
      <ThaiFood>
-       <FoodID>0010</FoodID>
+       <FoodID>010</FoodID>
        <FoodName>ข้าวต้ม</FoodName>
       <Price>35 บาท</Priice>
      </ThaiFood>
-<Food>
+</Food>
