@@ -6,3 +6,6 @@
 
 console.log("y เป็นชนิด",typeof(y));
 console.log("myName เป็นชนิด",typeof(myName));
+
+y = "JAVA";
+console.log(y, typeof(y));
