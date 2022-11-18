@@ -1,6 +1,6 @@
 let obj = {
     "StudentID": 64325,
-    "mame" : "Jack",
+    "n  ame" : "Jack",
     "tel":["0954831471","0984166258"]
 };
 
