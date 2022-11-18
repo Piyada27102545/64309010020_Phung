@@ -1,4 +1,4 @@
-let arr = ["JAva",2565,3.65,true];
+let arr = ["Java",2565,3.65,true];
 
 console.log(arr[0]);
 console.log(arr.length);
